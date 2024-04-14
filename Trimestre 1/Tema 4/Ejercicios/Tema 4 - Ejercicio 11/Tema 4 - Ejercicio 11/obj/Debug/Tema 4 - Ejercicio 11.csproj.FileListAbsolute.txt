@@ -1,0 +1,11 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\bin\Debug\Tema 4 - Ejercicio 11.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\bin\Debug\Tema 4 - Ejercicio 11.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\bin\Debug\Tema 4 - Ejercicio 11.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\obj\Debug\Tema 4 - Ejercicio 11.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\obj\Debug\Tema 4 - Ejercicio 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\obj\Debug\Tema_4___Ejercicio_11.Form1.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\obj\Debug\Tema_4___Ejercicio_11.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\obj\Debug\Tema 4 - Ejercicio 11.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\obj\Debug\Tema 4 - Ejercicio 11.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\obj\Debug\Tema 4 - Ejercicio 11.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 11\Tema 4 - Ejercicio 11\obj\Debug\Tema 4 - Ejercicio 11.pdb

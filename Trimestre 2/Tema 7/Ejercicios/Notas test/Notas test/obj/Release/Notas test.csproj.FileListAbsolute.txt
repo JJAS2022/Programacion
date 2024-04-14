@@ -1,0 +1,15 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\bin\Release\Notas test.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\bin\Release\Notas test.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\bin\Release\Notas test.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\obj\Release\Notas test.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\obj\Release\Notas test.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\obj\Release\Notas_test.Form1.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\obj\Release\Notas_test.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\obj\Release\Notas test.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\obj\Release\Notas test.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\obj\Release\Notas test.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\obj\Release\Notas test.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\bin\Release\Notas test.exe.manifest
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\bin\Release\Notas test.application
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\obj\Release\Notas test.exe.manifest
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 2\Tema 7\Ejercicios\Notas test\Notas test\obj\Release\Notas test.application

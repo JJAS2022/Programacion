@@ -1,0 +1,11 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\bin\Debug\Tema 5 - Ejercicio 20.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\bin\Debug\Tema 5 - Ejercicio 20.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\bin\Debug\Tema 5 - Ejercicio 20.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\obj\Debug\Tema 5 - Ejercicio 20.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\obj\Debug\Tema 5 - Ejercicio 20.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\obj\Debug\Tema_5___Ejercicio_20.Form1.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\obj\Debug\Tema_5___Ejercicio_20.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\obj\Debug\Tema 5 - Ejercicio 20.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\obj\Debug\Tema 5 - Ejercicio 20.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\obj\Debug\Tema 5 - Ejercicio 20.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 20\Tema 5 - Ejercicio 20\obj\Debug\Tema 5 - Ejercicio 20.pdb

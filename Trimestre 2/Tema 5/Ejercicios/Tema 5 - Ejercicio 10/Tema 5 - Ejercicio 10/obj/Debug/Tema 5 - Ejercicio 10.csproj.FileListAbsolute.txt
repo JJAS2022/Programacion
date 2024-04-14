@@ -1,0 +1,11 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\bin\Debug\Tema 5 - Ejercicio 10.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\bin\Debug\Tema 5 - Ejercicio 10.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\bin\Debug\Tema 5 - Ejercicio 10.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\obj\Debug\Tema 5 - Ejercicio 10.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\obj\Debug\Tema 5 - Ejercicio 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\obj\Debug\Tema_5___Ejercicio_10.Form1.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\obj\Debug\Tema_5___Ejercicio_10.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\obj\Debug\Tema 5 - Ejercicio 10.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\obj\Debug\Tema 5 - Ejercicio 10.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\obj\Debug\Tema 5 - Ejercicio 10.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 10\Tema 5 - Ejercicio 10\obj\Debug\Tema 5 - Ejercicio 10.pdb

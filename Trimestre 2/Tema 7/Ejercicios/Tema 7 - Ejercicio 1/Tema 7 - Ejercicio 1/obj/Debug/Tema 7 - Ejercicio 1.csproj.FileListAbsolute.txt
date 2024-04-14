@@ -1,0 +1,11 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\bin\Debug\Tema 7 - Ejercicio 1.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\bin\Debug\Tema 7 - Ejercicio 1.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\bin\Debug\Tema 7 - Ejercicio 1.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\obj\Debug\Tema 7 - Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\obj\Debug\Tema 7 - Ejercicio 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\obj\Debug\Tema_7___Ejercicio_1.Form1.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\obj\Debug\Tema_7___Ejercicio_1.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\obj\Debug\Tema 7 - Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\obj\Debug\Tema 7 - Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\obj\Debug\Tema 7 - Ejercicio 1.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 1\Tema 7 - Ejercicio 1\obj\Debug\Tema 7 - Ejercicio 1.pdb

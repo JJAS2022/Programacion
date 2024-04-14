@@ -1,0 +1,14 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\bin\Debug\Ejercicio 5 - Tema 8.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\bin\Debug\Ejercicio 5 - Tema 8.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\bin\Debug\Ejercicio 5 - Tema 8.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio 5 - Tema 8.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio 5 - Tema 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio_5___Tema_8.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio 5 - Tema 8.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio 5 - Tema 8.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio 5 - Tema 8.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio 5 - Tema 8.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio_5___Tema_8.FormAlumnos.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio_5___Tema_8.FormInicial.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio_5___Tema_8.FormCursos.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 5 - Tema 8\Ejercicio 5 - Tema 8\obj\Debug\Ejercicio_5___Tema_8.FormProfesores.resources

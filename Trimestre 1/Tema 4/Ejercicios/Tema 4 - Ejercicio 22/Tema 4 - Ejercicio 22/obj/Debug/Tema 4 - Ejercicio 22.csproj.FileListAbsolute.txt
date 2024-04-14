@@ -1,0 +1,11 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\bin\Debug\Tema 4 - Ejercicio 22.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\bin\Debug\Tema 4 - Ejercicio 22.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\bin\Debug\Tema 4 - Ejercicio 22.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\obj\Debug\Tema 4 - Ejercicio 22.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\obj\Debug\Tema 4 - Ejercicio 22.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\obj\Debug\Tema_4___Ejercicio_22.Form1.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\obj\Debug\Tema_4___Ejercicio_22.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\obj\Debug\Tema 4 - Ejercicio 22.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\obj\Debug\Tema 4 - Ejercicio 22.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\obj\Debug\Tema 4 - Ejercicio 22.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 22\Tema 4 - Ejercicio 22\obj\Debug\Tema 4 - Ejercicio 22.pdb

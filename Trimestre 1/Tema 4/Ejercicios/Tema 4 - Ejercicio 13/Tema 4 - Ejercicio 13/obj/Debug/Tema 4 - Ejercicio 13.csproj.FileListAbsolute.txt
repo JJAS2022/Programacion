@@ -1,0 +1,11 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\obj\Debug\Tema 4 - Ejercicio 13.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\obj\Debug\Tema 4 - Ejercicio 13.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\obj\Debug\Tema_4___Ejercicio_13.Form1.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\obj\Debug\Tema_4___Ejercicio_13.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\obj\Debug\Tema 4 - Ejercicio 13.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\obj\Debug\Tema 4 - Ejercicio 13.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\bin\Debug\Tema 4 - Ejercicio 13.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\bin\Debug\Tema 4 - Ejercicio 13.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\bin\Debug\Tema 4 - Ejercicio 13.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\obj\Debug\Tema 4 - Ejercicio 13.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 13\Tema 4 - Ejercicio 13\obj\Debug\Tema 4 - Ejercicio 13.pdb

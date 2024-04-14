@@ -1,0 +1,14 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\bin\Debug\Tema 7 - Ejercicio 6.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\bin\Debug\Tema 7 - Ejercicio 6.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\bin\Debug\Tema 7 - Ejercicio 6.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema 7 - Ejercicio 6.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema 7 - Ejercicio 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema_7___Ejercicio_6.fAlumnos.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema_7___Ejercicio_6.fCursos.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema_7___Ejercicio_6.fInicial.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema_7___Ejercicio_6.fProfesores.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema_7___Ejercicio_6.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema 7 - Ejercicio 6.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema 7 - Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema 7 - Ejercicio 6.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 7\Ejercicios\Tema 7 - Ejercicio 6\Tema 7 - Ejercicio 6\obj\Debug\Tema 7 - Ejercicio 6.pdb

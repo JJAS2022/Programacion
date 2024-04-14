@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\obj\Debug\Ejercicio 8 - Tema 2.csproj.AssemblyReference.cache
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\obj\Debug\Ejercicio 8 - Tema 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\obj\Debug\Ejercicio_8___Tema_2.Form1.resources
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\obj\Debug\Ejercicio_8___Tema_2.Properties.Resources.resources
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\obj\Debug\Ejercicio 8 - Tema 2.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\obj\Debug\Ejercicio 8 - Tema 2.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\bin\Debug\Ejercicio 8 - Tema 2.exe.config
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\bin\Debug\Ejercicio 8 - Tema 2.exe
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\bin\Debug\Ejercicio 8 - Tema 2.pdb
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\obj\Debug\Ejercicio 8 - Tema 2.exe
+C:\Users\laura\OneDrive\Desktop\JAVI\Programación\Tema 2\Ejercicio 8 - Tema 2\Ejercicio 8 - Tema 2\obj\Debug\Ejercicio 8 - Tema 2.pdb

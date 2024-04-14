@@ -1,0 +1,11 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\bin\Debug\Tema 5 - Ejercicio 17.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\bin\Debug\Tema 5 - Ejercicio 17.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\bin\Debug\Tema 5 - Ejercicio 17.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\obj\Debug\Tema 5 - Ejercicio 17.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\obj\Debug\Tema 5 - Ejercicio 17.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\obj\Debug\Tema_5___Ejercicio_17.Form1.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\obj\Debug\Tema_5___Ejercicio_17.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\obj\Debug\Tema 5 - Ejercicio 17.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\obj\Debug\Tema 5 - Ejercicio 17.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\obj\Debug\Tema 5 - Ejercicio 17.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Tema 5\Ejercicios\Tema 5 - Ejercicio 17\Tema 5 - Ejercicio 17\obj\Debug\Tema 5 - Ejercicio 17.pdb

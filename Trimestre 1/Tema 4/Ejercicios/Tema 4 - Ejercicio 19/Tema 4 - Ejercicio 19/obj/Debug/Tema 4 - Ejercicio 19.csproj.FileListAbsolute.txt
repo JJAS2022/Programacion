@@ -1,0 +1,11 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\bin\Debug\Tema 4 - Ejercicio 19.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\bin\Debug\Tema 4 - Ejercicio 19.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\bin\Debug\Tema 4 - Ejercicio 19.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\obj\Debug\Tema 4 - Ejercicio 19.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\obj\Debug\Tema 4 - Ejercicio 19.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\obj\Debug\Tema_4___Ejercicio_19.Form1.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\obj\Debug\Tema_4___Ejercicio_19.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\obj\Debug\Tema 4 - Ejercicio 19.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\obj\Debug\Tema 4 - Ejercicio 19.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\obj\Debug\Tema 4 - Ejercicio 19.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Ejercicios\Tema 4\Tema 4 - Ejercicio 19\Tema 4 - Ejercicio 19\obj\Debug\Tema 4 - Ejercicio 19.pdb

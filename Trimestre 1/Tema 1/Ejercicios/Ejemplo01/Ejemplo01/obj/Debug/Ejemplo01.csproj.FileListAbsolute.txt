@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\bin\Debug\Ejemplo01.exe.config
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\bin\Debug\Ejemplo01.exe
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\bin\Debug\Ejemplo01.pdb
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.csproj.AssemblyReference.cache
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.csproj.SuggestedBindingRedirects.cache
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.Properties.Resources.resources
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.exe
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.pdb
+C:\Users\laura\OneDrive\Desktop\JAVI\Ejemplo01\Ejemplo01\obj\Debug\Ejemplo01.Form1.resources

@@ -1,0 +1,21 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\bin\Debug\Ejercicio 1 - Tema 8.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\bin\Debug\Ejercicio 1 - Tema 8.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\bin\Debug\Ejercicio 1 - Tema 8.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio_1___Tema_8.Form1.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio_1___Tema_8.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.pdb
+D:\FP\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\bin\Debug\Ejercicio 1 - Tema 8.exe.config
+D:\FP\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\bin\Debug\Ejercicio 1 - Tema 8.exe
+D:\FP\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\bin\Debug\Ejercicio 1 - Tema 8.pdb
+D:\FP\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.csproj.AssemblyReference.cache
+D:\FP\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio_1___Tema_8.Form1.resources
+D:\FP\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio_1___Tema_8.Properties.Resources.resources
+D:\FP\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.csproj.GenerateResource.cache
+D:\FP\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.csproj.CoreCompileInputs.cache
+D:\FP\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.exe
+D:\FP\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 8\Ejercicios\Ejercicio 1 - Tema 8\Ejercicio 1 - Tema 8\obj\Debug\Ejercicio 1 - Tema 8.pdb

@@ -1,0 +1,19 @@
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio 4 - Tema 9.csproj.AssemblyReference.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio 4 - Tema 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio_4___Tema_9.FormAlumnos.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio_4___Tema_9.FormCursos.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio_4___Tema_9.FormInicial.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio_4___Tema_9.FormProfesores.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio_4___Tema_9.Properties.Resources.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio 4 - Tema 9.csproj.GenerateResource.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio 4 - Tema 9.csproj.CoreCompileInputs.cache
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\bin\Debug\AppData\Instituto.mdf
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\bin\Debug\AppData\Instituto_log.ldf
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\bin\Debug\Ejercicio 4 - Tema 9.exe.config
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\bin\Debug\Ejercicio 4 - Tema 9.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\bin\Debug\Ejercicio 4 - Tema 9.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio 4 - Tema 9.exe
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio 4 - Tema 9.pdb
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio_4___Tema_9.FormDatosCursos.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio_4___Tema_9.FormDatosProfesores.resources
+C:\Users\jjase\OneDrive\Escritorio\FP\Apuntes\DAM1\1. Programación (Apuntes)\Trimestre 3\Tema 9\Ejercicios\Tema 9 - Ejercicio 4\Ejercicio 4 - Tema 9\obj\Debug\Ejercicio_4___Tema_9.FormDatosAlumnos.resources
